@@ -7,7 +7,7 @@ Foram desenvolvidas as seguintes aplicações:
 
 # Pokedex    ![alt text](https://github.com/edunet1990/projects_afrodev_android_kotlin/blob/master/Screenshots/pokedex-icon-21.png)
 
->App com o intuíto de receber dados da api PokeApi, listar pokemons assim como as suas demais características
+>App com o intuíto de receber dados da api PokeApi, listar pokemons assim como as suas demais características (projeto em desenvolvimento). 
 
 ## Tecnologias
 
