@@ -2,7 +2,7 @@
 # Projeto Afrodev 1° edição
 
 Projetos desenvolvidos no curso de Android ministrado pela [Sandyara Peres](https://www.linkedin.com/in/sandyaraperes/) através do projeto Afrodev 1° edição.
-Foram desenvidas as seguintes aplicações:.
+Foram desenvolvidas as seguintes aplicações:.
 
 
 # Pokedex    ![alt text](https://github.com/edunet1990/projects_afrodev_android_kotlin/blob/master/Screenshots/pokedex-icon-21.png)
